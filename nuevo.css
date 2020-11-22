@@ -1,0 +1,41 @@
+header, section, footer, aside, nav, article {
+				display: block;
+}
+body {
+				text-align: center;
+				background: black;
+}
+.cabecera {
+				padding: 5px 15px;
+				margin: 10px;
+				background: lime;
+}
+
+.seccion {
+				background: red;
+				color: white;
+}
+
+.parrafo {
+				background: lime;
+}
+
+.pies {
+				background: black;
+				color: white;
+				text-align: left;
+			 padding: 10px;
+}
+
+.Menu {
+				background: aqua;
+				padding: 5px 15px;
+}
+
+.Menu li {
+				text-aline: left;
+				list-style: none;
+				padding: 5px;
+				font: bold 14px verdana;
+				display: inline-block;
+}
